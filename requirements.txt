@@ -1,0 +1,9 @@
+python-dotenv
+crewai
+crewai-tools
+streamlit
+langchain-community
+langchain
+langchain-experimental
+openai
+groq
